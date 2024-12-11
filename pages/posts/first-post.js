@@ -27,11 +27,6 @@ export default function FirstPost(){
                 width={400}
                 alt="F1-Logo"
             />
-
-            <h2>
-                <Link href="/">Back to home</Link>
-            </h2>
-        
         
         </Layout>
 
