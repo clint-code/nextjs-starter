@@ -5,6 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 export const name = 'Frodo Baggins';
+
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
