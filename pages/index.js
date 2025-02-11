@@ -26,12 +26,14 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
 
         <p>
-          Hello there, I'm {name}. I used to live in  Bag-End in the Shire but currently reside at the Grey Havens
+          Hello there, I'm {name}. I used to live in  Bag-End
+          in the Shire but currently reside at the Grey Havens.
         </p>
 
         <p>
-          This is after being stabbed by a Nazgul at Weathertop, losing my finger to Gollum on Mount Doom
-          and destroying Sauron's One Ring.
+          This was after being stabbed by one of the Nazgul at Weathertop, 
+          losing my finger to Gollum on Mount Doom and destroying 
+          Sauron's One Ring.
         </p>
         
         <p>
